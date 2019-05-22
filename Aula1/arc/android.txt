@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+app = 'C:/Diego/Appium/app-debug.apk'
+appPackage = "com.inducesmile.androidecommerceshop"
+autoGrantPermissions = true

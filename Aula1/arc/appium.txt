@@ -1,0 +1,5 @@
+[caps]
+platformName = "iOS"
+platformVersion = "10.3"
+deviceName = "iPhone Simulator"
+app = "/path/to/app_bundle"
